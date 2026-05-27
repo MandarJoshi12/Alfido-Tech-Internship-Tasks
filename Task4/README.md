@@ -5,7 +5,7 @@ The Student Record System is a simple Java file handling project developed to de
 The program allows users to enter student details such as name and marks, stores the information in a text file, and then 
 reads the stored data from the file for display.
 
-This project also demonstrates basic exception handling using try-catch blocks to manage file-related errors efficiently.
+This project also demonstrates basic exception handling using try-catch blocks to manage file related errors efficiently.
 
 ## Features
 - Accepts student details from the user
